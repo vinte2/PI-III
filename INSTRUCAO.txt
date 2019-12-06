@@ -1,0 +1,10 @@
+
+EXECUTAR APLICA��O ATRAV�S DO SERVIDOR INTERNO DO PHP
+
+ATRAVES DO TERMINAL:
+
+EXECUTE: php -S localhost:8080
+
+
+https://github.com/vinte2/PI--V
+
